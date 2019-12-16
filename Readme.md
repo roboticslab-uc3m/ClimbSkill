@@ -2,6 +2,7 @@
 Skill developed in both simulator and code to climb an obstacle.
 The project is structured as follows:
 
+<pre>
 Project Structure
 
 ├── manifest.json
@@ -23,7 +24,7 @@ Project Structure
 │   └── src
 
         └── opencvskill.go
-
+</pre>
 
 Inside the Simulator folder there are the motion (.vsm) and world (.vsw) files to import in the simulator.
 The source code to modify is inside the robot folder.
